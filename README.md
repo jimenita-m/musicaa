@@ -18,7 +18,12 @@ Jimena Zuñiga y Luciana Lozada
 
 El proyecto se encuentra en desarrollo. Actualmente, cuenta con información general sobre la música y se irán agregando nuevas secciones sobre sus géneros, características y beneficios.
 ## Géneros musicales
+## Beneficios de la música
 
+- Ayuda a expresar emociones.
+- Puede mejorar el estado de ánimo.
+- Estimula la creatividad.
+- Nos permite conectar con otras personas.
 - **Pop:** se caracteriza por sus melodías pegadizas.
 - **Rock:** utiliza principalmente guitarras y batería.
 - **Reguetón:** tiene ritmos urbanos y bailables.
